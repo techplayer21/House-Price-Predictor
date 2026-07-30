@@ -4,7 +4,7 @@ A Machine Learning web application that predicts house prices using the Californ
 
 ## Live Demo
 
-App: https://engineer-yashraj-house-price-predictor-streamlit-app-nct0ai.streamlit.app/
+App: https://techplayer21-house-price-predictor-streamlit-app-nct0ai.streamlit.app/
 
 ## Tech Stack
 
